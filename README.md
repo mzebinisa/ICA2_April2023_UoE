@@ -28,5 +28,5 @@ These tools can typically be installed on most systems via package managers or b
 
 1. Download the file oqsil.py or tar genome-qc-uoe-pg-project.tar.gz to your working directory.
 
-Once the file is downloaded, extract the files: using tar -xvf B116564-2022.ICA2resit.tar.gz
+Once the file is downloaded, extract the files: using tar -xvf genome-qc-uoe-pg-project.tar.gz
 Read through and follow the manual to perform analysis.
