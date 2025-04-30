@@ -1,4 +1,4 @@
-**** OQSIL - Online Protein Quality aSsesIng tooL 
+**OQSIL - Online Protein Quality aSsesIng tooL** 
  
  This tool was developed as part of the coursework for the Bioinformatics programming and systems management module at the Bioinformatics postgraduate program at the University of Edinburgh in 2022-2023.
 
