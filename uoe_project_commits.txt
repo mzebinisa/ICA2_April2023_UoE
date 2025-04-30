@@ -1,0 +1,131 @@
+commit 459d2d17006e48d825e095d6e365ef8f53f98d34
+Author: B116564-2022 <*>
+Date:   Thu Apr 6 23:30:58 2023 +0100
+
+    Last changgit add oqsil.pygit add oqsil.pygit add oqsil.py
+
+commit d7ad5ab5990ac41167dd9f0d9d384204e6fa1c69
+Author: B116564-2022 <*>
+Date:   Thu Apr 6 16:14:50 2023 +0100
+
+    Phew
+
+commit f40d598319cd0dfe020bb2dfa451ef5199382282
+Author: B116564-2022 <*>
+Date:   Thu Apr 6 04:08:02 2023 +0100
+
+    Finally working
+
+commit 41b8f8e810d5ca94a34a2e578fa67fa9ac9ba932
+Author: B116564-2022 <*>
+Date:   Thu Apr 6 01:14:26 2023 +0100
+
+    ffff
+
+commit 6840073c2d79d8127ca10f37db9d99cb68f41fa3
+Author: B116564-2022 <*>
+Date:   Thu Apr 6 00:46:10 2023 +0100
+
+    Trying to implement pantherdb to annotate the proteins but something isnt working(
+
+commit e8c647a6faedb4a95a02ae1029f89a01d649af6e
+Author: B116564-2022 <*>
+Date:   Mon Apr 3 22:23:35 2023 +0100
+
+    Now its executable i believe
+
+commit b70ca3557aa7684c03973f0da5b4e72a1aa74fb7
+Author: B116564-2022 <*>
+Date:   Mon Apr 3 21:45:07 2023 +0100
+
+    Penultimate changes hopefully
+
+commit 78f793f95d0dcec12f200ec3de941d09d191ae8d
+Author: B116564-2022 <*>
+Date:   Mon Apr 3 13:55:53 2023 +0100
+
+    Full git log
+
+commit 6d6c230b8be3905240ebe1aea2ce246c86be624c
+Author: B116564-2022 <*>
+Date:   Mon Apr 3 12:47:18 2023 +0100
+
+    Renaming the file hopefully
+
+commit 0a03c246c77d779025155e5b2da166eedb238ea4
+Author: B116564-2022 <*>
+Date:   Mon Apr 3 12:02:33 2023 +0100
+
+    Now its finally generating error messages. But still have a lot to do
+
+commit ac94c62092b138814e5755dd159a35828c259d28
+Author: B116564-2022 <*>
+Date:   Mon Apr 3 10:12:27 2023 +0100
+
+    Seems like everything si now working fine
+
+commit 6617a30642578b04b2a7ae6d416055582317fbe9
+Author: B116564-2022 <*>
+Date:   Fri Mar 31 12:35:34 2023 +0100
+
+    Yaaay the plotcon is now working. Phew!
+
+commit 82963327304c95cf265585a37e80f1865d43e299
+Author: B116564-2022 <*>
+Date:   Mon Mar 13 11:47:07 2023 +0000
+
+    Now calculating the similarity percent giving it to the screen, in addition to showing the alignment and saving the output
+
+commit 01f2aaa85990a756ea9b49c064d3ee88fb1bd769
+Author: B116564-2022 <*>
+Date:   Thu Mar 9 12:54:27 2023 +0000
+
+    Clustalo is seemingly working, but shouldnt it generate percentage output? and also i need to work on what to do when there is nothing found for the txid or protein
+
+commit 167d58fbe0fb32453a34b184596e71cda9221a56
+Author: B116564-2022 <*>
+Date:   Sun Mar 5 21:59:48 2023 +0000
+
+    Deleted previously written mean and completeness calculations as they are not doing what i want, instead tried to wrtie some clustalo stuff, but still not workig. Suspect that it might be because of the cleaning process, would be great if the clustalo could run over any sequence trying solutions for that now
+
+commit 53a2a5a2f667cb07fd3e9c1ea850ec404c0444e1
+Author: B116564-2022 <*>
+Date:   Sun Mar 5 08:39:59 2023 +0000
+
+    Solved exiting problem
+
+commit de761f709bedbd7406ea9dd8238d5213fbc3607b
+Author: B116564-2022 <*>
+Date:   Sat Mar 4 14:45:39 2023 +0000
+
+    Indentation error corrected
+
+commit 72e9caad488b59bb40f3a7e55a6d0ac4f349c26a
+Author: B116564-2022 <*>
+Date:   Sat Mar 4 14:24:51 2023 +0000
+
+    Downloaded fasta are being assigned to oqsillar var now
+
+commit 309422b141c478c28acc617cff012d746023b9e5
+Author: B116564-2022 <*>
+Date:   Sat Mar 4 12:59:37 2023 +0000
+
+    Added ad API code from NCBI, hopfully it should work now. Fingers crossedgit add resit2.pygit add resit2.py!
+
+commit a5396994473732907e47ade2f7ca17bafd713f21
+Author: B116564-2022 <*>
+Date:   Sat Mar 4 12:31:31 2023 +0000
+
+    The first version for finding fastas
+
+commit e1d964c62c42cf39ce997c87cbae9939c37cb6dc
+Author: B116564-2022 <*>
+Date:   Sat Mar 4 12:29:35 2023 +0000
+
+    Removing the trial file
+
+commit 9d21ebb40116007afa8aa1d39c35c141733c5b89
+Author: B116564-2022 <*>
+Date:   Fri Mar 3 14:19:16 2023 +0000
+
+    First version
