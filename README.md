@@ -1,8 +1,10 @@
  OQSIL - Online Protein Quality aSsesIng tooL
+ This tool was developed as part of the coursework for the Bioinformatics programming and systems management module at the Bioinformatics postgraduate program at the University of Edinburgh in 2022-2023.
 
  Introduction
 
 OQSIL is a generic Python-based tool designed to assist biologists and protein-focused researchers in conducting comprehensive protein sequence analyses. It allows users to download protein FASTA sequences from NCBI for specific organisms or taxa, then performs a range of quantitative and qualitative analyses. These include amino acid count, sequence alignment, conservation plotting, similarity scoring, motif identification, and physicochemical property analysis of individual proteins.
+
 
  Features
 
